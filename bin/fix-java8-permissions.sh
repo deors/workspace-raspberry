@@ -1,0 +1,1 @@
+sudo chmod -R u+rwX,go+rX,go-w /usr/lib/jvm/jdk8u222-b10/
