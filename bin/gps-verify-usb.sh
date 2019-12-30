@@ -1,1 +1,1 @@
-sudo tail -f /dev/ttyUSB0
+tail -f /dev/ttyUSB0

@@ -1,1 +1,1 @@
-sudo tail -f /dev/serial0
+tail -f /dev/serial0

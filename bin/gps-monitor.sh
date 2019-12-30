@@ -1,1 +1,1 @@
-sudo gpsmon /dev/serial0
+gpsmon /dev/serial0

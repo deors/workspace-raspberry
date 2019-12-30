@@ -1,1 +1,1 @@
-sudo i2cdetect -y 1
+i2cdetect -y 1
